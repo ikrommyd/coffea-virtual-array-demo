@@ -1,0 +1,2 @@
+coffea[dask] @ git+https://github.com/scikit-hep/coffea.git@master
+jupyterlab
